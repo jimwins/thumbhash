@@ -1,6 +1,6 @@
 {
   "name": "srwiez/thumbhash",
-  "description": "A brief description of your package",
+  "description": "Generate a very compact representation of a placeholder for an image",
   "type": "library",
   "license": "MIT",
   "authors": [
